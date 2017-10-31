@@ -1,0 +1,124 @@
+.head{
+    padding-top: 30px;
+
+    font-size: 40px;
+    color: #000000;
+
+}
+
+
+body{
+    background-color: #eeeeee;
+    padding-left: 30px;
+}
+#btn{
+    font-size: large;
+    width: 15%;
+
+    height: 3em;
+    padding-top: 3px;
+}
+
+#inp{
+     font-size: x-large;
+     width: 83%;
+     height: 2em;
+
+
+
+
+ }
+.inp1{
+    font-size: x-large;
+    width: 30%;
+    height: 2em;
+
+
+
+
+}
+.inpjs{
+    font-size: x-large;
+    width: 30%;
+    height: 2em;
+    color: blue;
+    background-color:#eeeeee ;
+    border: none;
+}
+.hr{
+
+}
+
+.row{
+    width:5px;
+    height:auto;
+
+}
+
+.col{
+padding: 10px;
+    color: dodgerblue;
+}
+
+.coldel{
+    font-size: x-large;
+    width: 30%;
+    height: 2em;
+    text-decoration: line-through;
+    background-color:#eeeeee ;
+    border: none;
+     color: #d57079;
+ }
+.colup{
+    font-size: x-large;
+    width: 30%;
+    height: 2em;
+
+    background-color:#eeeeee ;
+    border: none;
+    color: #50a86e
+}
+
+colcom{
+    font-size: x-large;
+    width: 30%;
+    height: 2em;
+
+    background-color:#eeeeee ;
+    border: none;
+    color: #668468
+}
+.del{
+    margin:3px;
+    color: #d57079;
+    background-color: #eeb9b7;
+    border-radius: 5%;
+    border: solid 1px #d57079;
+    font-weight: bold;
+    width: 10em;
+    height: 3.5em;
+
+}
+.mark{
+    margin:3px;
+    color: #668468;
+    background-color: #b1e7be;
+    border-radius: 5%;
+    border: solid 1px #668468;
+    font-weight: bold;
+    width: 10em;
+    height: 3.5em;
+
+}
+
+.update{
+    margin:3px;
+    color: #74a4a8;
+    background-color: #a4e1e5;
+    border-radius: 5%;
+    border: solid 1px #74a4a8;
+    font-weight: bold;
+    width: 10em;
+    height: 3.5em;
+
+}
